@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <stdbool.h>
+
 
 // 二叉树节点结构体
 typedef struct btree_node {
@@ -29,6 +29,7 @@ void find_leaves(btree root){
     stack* S;
     
 }
+
 
 
 
